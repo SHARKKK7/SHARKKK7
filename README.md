@@ -3,10 +3,10 @@
 <i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
+
 hello
 
 
+<!--START_SECTION:вака--> 
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION:вака-->
