@@ -8,5 +8,4 @@ hello
 
 
 <!--START_SECTION:вака--> 
-
 <!--END_SECTION:вака-->
