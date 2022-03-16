@@ -9,11 +9,13 @@ hello some text here zzzz
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-454-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-468-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 37 Contributions in the Year 2022
+> 🏆 43 Contributions in the Year 2022
  > 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
@@ -76,5 +78,5 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/03/2022 21:10:19 UTC
+ Last Updated on 16/03/2022 21:53:52 UTC
 <!--END_SECTION:waka-->
