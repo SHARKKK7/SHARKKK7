@@ -1,5 +1,5 @@
-<!--START_SECTION:вака--> 
-<!--END_SECTION:вака-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
