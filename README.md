@@ -4,7 +4,7 @@ hello some text here zzzz
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
+<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
