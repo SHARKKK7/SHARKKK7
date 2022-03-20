@@ -4,7 +4,7 @@ hello some text here zzzz
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
