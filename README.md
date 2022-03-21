@@ -4,7 +4,7 @@ hello some text here zzzz
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
+<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
