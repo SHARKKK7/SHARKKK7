@@ -4,7 +4,7 @@ hello some text here zzzz
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
+<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
