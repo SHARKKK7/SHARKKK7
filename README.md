@@ -9,6 +9,8 @@ hello some text here zzzz
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-481-blue)
 
 **🐱 My GitHub Data** 
@@ -50,14 +52,13 @@ Sunday       8 commits      ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 mins              ██████████████████░░░░░░░   74.56% 
-Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.44%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,5 +78,5 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 21:03:04 UTC
+ Last Updated on 23/03/2022 21:22:03 UTC
 <!--END_SECTION:waka-->
