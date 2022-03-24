@@ -4,7 +4,7 @@ hello some text here zzzz
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
+<i>❝“Real knowledge is to know the extent of one’s ignorance.”— Confucius   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
