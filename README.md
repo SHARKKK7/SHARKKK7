@@ -1,7 +1,7 @@
 hello some text here zzzz
 
 <t>
- <img align="left" width="2%" height="2%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" title="Angular" hspace="20"/>
+ <img align="left" width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" title="Angular" hspace="20"/>
  <img align="left" width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" title="Bootstrap" hspace="20"/>
 </t>
 
