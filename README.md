@@ -28,6 +28,10 @@ hello some text here zzz
 </div>
 
 
+
+
+
+
 <details>	
   <summary><b>My techology stack</b></summary>
 
