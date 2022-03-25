@@ -22,7 +22,7 @@ hello some text here zzz
 **Databases and frameworks**
 
 <div>
-    <img src="" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/mysql.svg" width="30" height="30"/>
     <img src="" width="30" height="30"/>
     <img src="" width="36" height="30"/>
     <img src="" width="30" height="30"/>
