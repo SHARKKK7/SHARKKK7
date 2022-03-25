@@ -10,14 +10,6 @@ hello some text here zzz
   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
 </details>
 
-<st>
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" />
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    />
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" />
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg"    />
-</st>
-
-
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
