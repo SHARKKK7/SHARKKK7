@@ -1,5 +1,6 @@
 hello some text here zzz
 
+Мой  стек:
  <div>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" width="30" height="30"/>
