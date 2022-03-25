@@ -19,7 +19,12 @@ hello some text here zzz
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/php.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/css3.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/html5.svg" width="30" height="30"/>
-    
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/java.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/html5.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/html5.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/html5.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/html5.svg" width="30" height="30"/>
+    https://github.com/SHARKKK7/SHARKKK7/blob/main/src/java.svg
 </div>
 <p>&nbsp;</p>
 
