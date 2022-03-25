@@ -33,7 +33,7 @@ hello some text here zzz
 <div>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/mysql.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/django.svg" width="30" height="30"/>
-    <img src="" width="36" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/pytorch.svg" width="36" height="30"/>
     <img src="" width="30" height="30"/>
     
 </div>
