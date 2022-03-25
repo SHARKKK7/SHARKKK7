@@ -4,7 +4,6 @@ hello some text here zzz
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    </st>
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" </st>
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" </st>
-</st>
 
 <details>	
   <summary><b>My techology stack</b></summary>
