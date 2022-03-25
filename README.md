@@ -27,20 +27,16 @@ hello some text here zzz
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-
-
-
-
 <div>
-<details>	
-  <summary><b>My techology stack</b></summary>
+ <details>	
+   <summary><b>My techology stack</b></summary>
 
-  <br />
-  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
-</details>
+   <br />
+   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
+ </details>
 </div>
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
