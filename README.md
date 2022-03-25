@@ -3,8 +3,8 @@ hello some text here zzz
  <div>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" width="36" height="30"/>
+    <img src="ttps://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
@@ -26,12 +26,6 @@ hello some text here zzz
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" >
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    >
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" >
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" >
-
 
 
 <details>	
