@@ -1,6 +1,5 @@
 hello some text here zzzz
 
-![Alt text](https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg)
 <img width = 200, src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
