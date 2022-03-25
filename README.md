@@ -16,6 +16,10 @@ hello some text here zzz
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" width="36" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/php.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" width="30" height="30"/>
+    <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" width="30" height="30"/>
+ 
     
 </div>
 <p>&nbsp;</p>
