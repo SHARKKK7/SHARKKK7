@@ -2,7 +2,7 @@ hello some text here zzzz
 <t>
  <img align="left" width="2%" height="2%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" />
  <img align="left" width="2%" height="2%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    />
- <img align="left" width="2%" height="2%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" />
+ <img align="left" width="2%" height="2%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" />
  <img align="left" width="2%" height="2%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    />
 </t>
 
