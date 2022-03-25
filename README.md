@@ -1,11 +1,8 @@
 hello some text here zzzz
 
 <t>
-ul.hr li {
-display: inline;
- }
-<img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
-<img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg">
+ <img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" />
+ <img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
 </t>
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
