@@ -9,17 +9,7 @@ hello some text here zzz
     
 </div>
 
-<div>
- <details>	
-   <summary><b>My techology stack</b></summary>
 
-   <br />
-   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-   <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
- </details>
-</div>
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
