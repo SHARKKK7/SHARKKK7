@@ -1,7 +1,10 @@
 hello some text here zzzz
 
+<f>
 <img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
 <img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg">
+</f>
+
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
