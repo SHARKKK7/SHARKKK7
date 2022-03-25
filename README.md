@@ -4,10 +4,10 @@ hello some text here zzz
   <summary><b>My techology stack</b></summary>
 
   <br />
-  <img height="18em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-  <img height="18em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-  <img height="18em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
-  <img height="18em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
+  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="40em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
 </details>
 
 <st>
