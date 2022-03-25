@@ -42,17 +42,17 @@ hello some text here zzz
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-482-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-647-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 43 Contributions in the Year 2022
+> 🏆 151 Contributions in the Year 2022
  > 
-> 📦 22.3 kB Used in GitHub's Storage 
+> 📦 22.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -60,21 +60,21 @@ hello some text here zzz
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    23 commits     █████████░░░░░░░░░░░░░░░░   35.94% 
-🌃 Evening    22 commits     ████████░░░░░░░░░░░░░░░░░   34.38% 
-🌙 Night      19 commits     ███████░░░░░░░░░░░░░░░░░░   29.69%
+🌆 Daytime    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
+🌃 Evening    113 commits    ██████████████████████░░░   89.68% 
+🌙 Night      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    48 commits     ██████████████████░░░░░░░   75.0% 
-Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Wednesday    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
+Friday       102 commits    ████████████████████░░░░░   80.95% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
 
 ```
 
@@ -109,5 +109,5 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2022 16:00:32 UTC
+ Last Updated on 25/03/2022 18:18:45 UTC
 <!--END_SECTION:waka-->
