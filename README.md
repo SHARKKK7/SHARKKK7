@@ -7,6 +7,9 @@ hello some text here zzz
 </a>
 
 Инструменты которыми я владею: 
+
+**Programming Languages**
+
  <div>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" width="30" height="30"/>
     <img src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" width="30" height="30"/>
