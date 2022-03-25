@@ -1,10 +1,10 @@
 hello some text here zzzz
-<t>
+<st>
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" />
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    />
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" />
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg"    />
-</t>
+</st>
 
 
 
@@ -18,6 +18,8 @@ hello some text here zzzz
   <summary><b>My techology stack</b></summary>
 
   <br />
+  <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
   <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
   <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
 </details>
