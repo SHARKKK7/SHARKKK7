@@ -1,9 +1,9 @@
 hello some text here zzz
 <st>
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" />
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    />
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" />
- <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" />
+ <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" </st>
+ <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    </st>
+ <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" </st>
+ <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" </st>
 </st>
 
 <details>	
