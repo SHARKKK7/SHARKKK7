@@ -1,5 +1,8 @@
 hello some text here zzzz
-
+<t>
+ <img align="left" width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" title="Angular" hspace="2"/>
+ <img align="left" width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" title="Browsersync" hspace="2"/>
+</t>
 
 
 
@@ -8,11 +11,6 @@ hello some text here zzzz
  <i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
-<t>
- <img align="left" width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" title="Angular" hspace="2"/>
- <img align="left" width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" title="Bootstrap" hspace="2"/>
-</t>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
