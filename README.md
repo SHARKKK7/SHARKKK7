@@ -1,11 +1,15 @@
 hello some text here zzz
-
-<r>
+![JavaScript](https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg)
+ ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+ ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+ ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+ 
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg" >
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg"    >
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/typescript.svg" >
  <img align="left" width="3%" height="3%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/javascript.svg" >
-</r>
+
 
 
 <details>	
