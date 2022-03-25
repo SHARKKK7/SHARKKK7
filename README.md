@@ -1,7 +1,7 @@
 hello some text here zzzz
 
-<f>
-<img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
+
+<f img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
 <img width="5%" height="5%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg">
 </f>
 
