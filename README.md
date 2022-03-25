@@ -1,12 +1,12 @@
 hello some text here zzzz
 <o>
- <summary><b>My techology stack</b></summary>
+  <summary><b>My techology stack</b></summary>
 
- <br />
- <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
- <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
- <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
- <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
+  <br />
+  <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/python.svg" />
+  <img height="180em" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg"/>
 </o>
 
 <st>
