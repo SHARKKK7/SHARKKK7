@@ -1,6 +1,6 @@
 hello some text here zzzz
 
-<img width = 200, src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
+<img width="15%" height="15%" src="https://github.com/SHARKKK7/SHARKKK7/blob/main/src/cplusplus.svg">
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
