@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.❞</i>
+<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
