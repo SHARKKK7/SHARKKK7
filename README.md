@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
+<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
