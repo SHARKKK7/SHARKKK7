@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
+<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
