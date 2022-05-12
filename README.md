@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
+<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
