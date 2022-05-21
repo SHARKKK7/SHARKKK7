@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
