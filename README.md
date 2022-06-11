@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
+<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
