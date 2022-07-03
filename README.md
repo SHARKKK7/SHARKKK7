@@ -40,7 +40,7 @@ hello some text here zzz
 <p>&nbsp;</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
@@ -52,7 +52,7 @@ hello some text here zzz
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -109,5 +109,5 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2022 11:13:04 UTC
+ Last Updated on 03/07/2022 11:40:51 UTC
 <!--END_SECTION:waka-->
