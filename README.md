@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
+<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
