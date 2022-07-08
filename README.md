@@ -40,7 +40,7 @@ hello some text here zzz
 <p>&nbsp;</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
@@ -83,13 +83,14 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        █████████████████████████   100.0%
+Markdown                 54 mins             ███████████████░░░░░░░░░░   59.67% 
+C#                       36 mins             ██████████░░░░░░░░░░░░░░░   40.33%
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.0%
+VS Code                  1 hr 30 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.0%
+Windows                  1 hr 30 mins        █████████████████████████   100.0%
 
 ```
 
@@ -109,5 +110,5 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/07/2022 21:01:33 UTC
+ Last Updated on 08/07/2022 21:40:52 UTC
 <!--END_SECTION:waka-->
