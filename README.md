@@ -48,11 +48,11 @@ hello some text here zzz
 
 > 🏆 173 Contributions in the Year 2022
  > 
-> 📦 29.0 kB Used in GitHub's Storage 
+> 📦 8.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -97,13 +97,10 @@ Windows                  7 hrs 9 mins        ███████████�
 
 ```
 
-**I Mostly Code in C** 
+**I Mostly Code in Python** 
 
 ```text
-C                        2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Standard ML              1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Makefile                 1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Python                   1 repo              █████████████████████████   100.0%
 
 ```
 
@@ -113,5 +110,5 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 23:51:59 UTC
+ Last Updated on 14/07/2022 00:50:07 UTC
 <!--END_SECTION:waka-->
