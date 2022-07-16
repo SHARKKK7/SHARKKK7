@@ -3,7 +3,7 @@ hello some text here zzz
 <br />
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
+<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
