@@ -40,13 +40,13 @@ hello some text here zzz
 <p>&nbsp;</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 170 Contributions in the Year 2022
+> 🏆 173 Contributions in the Year 2022
  > 
 > 📦 8.3 kB Used in GitHub's Storage 
  > 
@@ -83,15 +83,14 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 39 mins       ████████████████████████░   99.32% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+C#                       2 hrs 8 mins        █████████████████████████   99.95% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 8 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 40 mins       █████████████████████████   100.0%
+Windows                  2 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -108,5 +107,5 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 21:12:49 UTC
+ Last Updated on 17/07/2022 21:30:44 UTC
 <!--END_SECTION:waka-->
