@@ -40,7 +40,7 @@ hello some text here zzz
 <p>&nbsp;</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,5 +107,5 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/07/2022 20:58:54 UTC
+ Last Updated on 18/07/2022 21:22:44 UTC
 <!--END_SECTION:waka-->
