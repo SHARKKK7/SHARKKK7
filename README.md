@@ -48,7 +48,7 @@ hello some text here zzz
 
 > 🏆 170 Contributions in the Year 2022
  > 
-> 📦 9.4 kB Used in GitHub's Storage 
+> 📦 9.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,13 +83,13 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 25 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,5 +106,5 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/SHARKKK7/SHARKKK7/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2022 20:48:19 UTC
+ Last Updated on 29/07/2022 21:23:21 UTC
 <!--END_SECTION:waka-->
